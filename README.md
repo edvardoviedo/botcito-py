@@ -15,10 +15,9 @@ Un chatbot sencillo y aesthetic hecho con 💖 en Python + Flask.
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/chatbot-minimalista.git
+git clone https://github.com/edvardoviedo/botcito-py
 
-# Entra a la carpeta
-cd chatbot-minimalista
+#abre la terminal
 
 # Ejecuta el bot
 python app.py
