@@ -5,6 +5,8 @@ Pequeño chatbot de práctica(:
 
 Un chatbot sencillo y aesthetic hecho con 💖 en Python + Flask.
 
+![Vista previa del script](./image.png)
+
 ## 🧠 ¿Qué hace?
 
 - Responde de forma básica a saludos y preguntas comunes.
